@@ -1,4 +1,4 @@
-# @jcoggins/tiny
+# @rocketly/tiny
 
 [![npm (scoped)](https://img.shields.io/npm/v/@rocketly/tiny.svg)](https://www.npmjs.com/package/@rocketly/tiny)
 [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@rocketly/tiny.svg)](https://www.npmjs.com/package/@rocketly/tiny)
